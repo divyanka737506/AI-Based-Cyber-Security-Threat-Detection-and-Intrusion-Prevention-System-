@@ -1,0 +1,21 @@
+0
+ Destination Port
+ Bwd Header Length
+ Total Fwd Packets
+ Fwd Packet Length Mean
+Total Length of Fwd Packets
+ Init_Win_bytes_backward
+ Fwd Packet Length Max
+Init_Win_bytes_forward
+ Fwd Header Length.1
+ Max Packet Length
+Fwd PSH Flags
+ Bwd Packet Length Mean
+ Flow Packets/s
+ SYN Flag Count
+ Subflow Fwd Bytes
+ Bwd Packet Length Std
+ Subflow Bwd Packets
+ Bwd Packets/s
+ Idle Min
+ Flow IAT Std
