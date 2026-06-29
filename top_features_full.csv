@@ -1,0 +1,21 @@
+0
+ Total Length of Bwd Packets
+ Packet Length Variance
+ Fwd Packet Length Max
+ Subflow Fwd Bytes
+ Packet Length Std
+ Bwd Packet Length Mean
+ Max Packet Length
+ Subflow Bwd Bytes
+ Average Packet Size
+ Destination Port
+Init_Win_bytes_forward
+ Avg Bwd Segment Size
+ Packet Length Mean
+Total Length of Fwd Packets
+ Bwd Packet Length Std
+ PSH Flag Count
+ Total Backward Packets
+Subflow Fwd Packets
+ Fwd Header Length.1
+ Fwd Header Length
